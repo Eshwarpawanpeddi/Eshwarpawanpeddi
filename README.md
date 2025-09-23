@@ -8,7 +8,7 @@
 - 👀 Interested in **Artificial Intelligence & Machine Learning**  
 - 🌱 Currently learning **AI & ML**  
 - 💞️ Open to collaborate on projects involving **Java, Python, or C**  
-- 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwarpawanpeddi)  
+- 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/eshwarpawanpeddi](https://www.linkedin.com/in/eshwar-pawan-peddi-8664b411b/))  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I’m super competitive, love playing **♟️ Chess**, and enjoy **Anime 🎌**  
 
