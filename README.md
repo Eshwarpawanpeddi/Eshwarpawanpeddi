@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=220&section=header&text=Eshwar%20Pawan%20Peddi&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer+👨‍💻;AI+%26+ML+Student+@+BTI+🎓;Building+Smart+Robots+🤖;Chess+Strategist+♟️;Gameing+like+Crazy+🎮;Anime+Lover+🌸;Open+to+Collaboration+🤝&center=true&width=500&height=50&color=00f2ea&vCenter=true&size=25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer+👨‍💻;AI+%26+ML+Student+@+BTI+🎓;Building+Smart+Robots+🤖;Chess+Strategist+♟️;Gaming+like+Crazy+🎮;Anime+Lover+🌸;Open+to+Collaboration+🤝&center=true&width=500&height=50&color=00f2ea&vCenter=true&size=25" alt="Typing SVG" />
 </a>
 
 <p>
