@@ -1,93 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=220&section=header&text=Eshwar%20Pawan%20Peddi&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
+  
+  <img src="[https://readme-typing-svg.herokuapp.com/?lines=Eshwar+Pawan+Peddi;Machine+Learning+Architect+%F0%9F%A7%A0;Building+Sentient+Robots+%F0%9F%A4%96;Checkmate+Strategist+%E2%99%9F%EF%B8%8F;Anime+%26+Code+%E2%9A%94%EF%B8%8F&font=Fira+Code&center=true&width=600&height=100&color=f75c7e&vCenter=true&size=40&pause=1000](https://readme-typing-svg.herokuapp.com/?lines=Eshwar+Pawan+Peddi;Machine+Learning+Architect+%F0%9F%A7%A0;Building+Sentient+Robots+%F0%9F%A4%96;Checkmate+Strategist+%E2%99%9F%EF%B8%8F;Anime+%26+Code+%E2%9A%94%EF%B8%8F&font=Fira+Code&center=true&width=600&height=100&color=f75c7e&vCenter=true&size=40&pause=1000)" alt="Typing SVG" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer+👨‍💻;AI+%26+ML+Student+@+BTI+🎓;Building+Smart+Robots+🤖;Chess+Strategist+♟️;Gaming+like+Crazy+🎮;Anime+Lover+🌸;Open+to+Collaboration+🤝&center=true&width=500&height=50&color=00f2ea&vCenter=true&size=25" alt="Typing SVG" />
-</a>
+  <p align="center">
+    <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)">
+      <img src="[https://github-profile-trophy.vercel.app/?username=Eshwarpawanpeddi&theme=radical&no-frame=true&margin-w=15&margin-h=15](https://github-profile-trophy.vercel.app/?username=Eshwarpawanpeddi&theme=radical&no-frame=true&margin-w=15&margin-h=15)" alt="trophy" />
+    </a>
+  </p>
 
-<p>
- <em>MLE @ Nutrixcorp • Ex-Intern @ Wipro • Building the Future with AI</em>
-</p>
+  <p>
+   <em>
+     <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm94bMNkZzF5bnl6a3I5bnl6a3I5bnl6a3I5bnl6a3I5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LdOyjZ7FKk8ta/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm94bMNkZzF5bnl6a3I5bnl6a3I5bnl6a3I5bnl6a3I5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LdOyjZ7FKk8ta/giphy.gif)" width="30px"> 
+     MLE @ Nutrixcorp • Ex-Intern @ Wipro • Architecting the Singularity
+   </em>
+  </p>
 
-<br/>
+  <br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eshwar-pawan-peddi-8664b411b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:eshwarpavanpeddi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</p>
+  
+  <p align="center">
+    <a href="[https://www.linkedin.com/in/eshwar-pawan-peddi-8664b411b/](https://www.linkedin.com/in/eshwar-pawan-peddi-8664b411b/)" target="_blank">
+      <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)" />
+    </a>
+    <a href="mailto:eshwarpavanpeddi@gmail.com">
+      <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)" />
+    </a>
+    <a href="#">
+      <img src="[https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)" />
+    </a>
+  </p>
+</div>
 
----
+--- 
 
-### 🧠 Tech Stack & Arsenal
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,aws,tensorflow,pytorch,opencv,mysql,mongodb,git,github,vscode,linux&perline=12" />
-  </a>
-</p>
-
----
-
-### 💼 Experience
-
-| **Company** | **Role** | **Duration** |
-| :--- | :--- | :--- |
-| **Nutrix Health Tech (USA)** | **Machine Learning Engineer** <br> *Developed backend ML pipelines and deep learning models for exercise tracking.* | *Jun 2025 - Present* |
-| **Wipro Dice / Elewayte** | **Intern Software Developer** <br> *Performed data preprocessing and trained ML models for classification/regression.* | *Feb 2025 - May 2025* |
-| **GryNow Influencer Marketing** | **Student Intern** <br> *Managed campaign datasets and streamlined data entry processes.* | *Oct 2024 - Dec 2024* |
-
----
-
-### 🚀 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 AI Pet Robot</h3>
-      <p align="center"><em>Emotional Support Bot</em></p>
-      <p>A low-cost interactive robot using <strong>Jetson Nano</strong>. Features emotion detection via <strong>OpenCV</strong> and verbal responses powered by <strong>NLP/LLMs</strong>.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">♻️ Trash Detection</h3>
-      <p align="center"><em>YOLOv6 Implementation</em></p>
-      <p>Real-time trash detection system using <strong>YOLOv6</strong> and live camera feeds. Includes bounding box visualizations for object classification.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🩸 Diabetes Detection</h3>
-      <p align="center"><em>Neural Networks</em></p>
-      <p>Predictive model for diabetic risk using healthcare datasets. Built with <strong>TensorFlow</strong> and visualized with <strong>Seaborn</strong>.</p>
-    </td>
-    <td width="50%">
-        <h3 align="center">📊 GitHub Analytics</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=Eshwarpawanpeddi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true&count_private=true" width="100%" alt="stats graph" />
-    </td>
-  </tr>
-</table>
-
-<br/>
+<h3 align="center">⚡ Neural Network & Arsenal</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Eshwarpawanpeddi&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="streak graph" />
+  <img src="[https://skillicons.dev/icons?i=python,java,cpp,aws,tensorflow,pytorch,opencv,mysql,mongodb,git,docker,linux&perline=12&theme=dark](https://skillicons.dev/icons?i=python,java,cpp,aws,tensorflow,pytorch,opencv,mysql,mongodb,git,docker,linux&perline=12&theme=dark)" />
 </div>
 
 <br/>
 
-<table align="center" width="90%">
+
+<h3 align="center">⚔️ Quest Log</h3>
+
+| **Guild (Company)** | **Class (Role)** | **Campaign (Timeline)** |
+| :--- | :--- | :--- |
+| **Nutrix Health Tech** 🇺🇸 | **Machine Learning Engineer** <br> <sub>*Backend ML pipelines & Deep Learning for fitness tracking.*</sub> | *Jun 2025 - Present* |
+| **Wipro Dice / Elewayte** | **Intern Software Developer** <br> <sub>*Data preprocessing & Classification/Regression models.*</sub> | *Feb 2025 - May 2025* |
+| **GryNow** | **Student Intern** <br> <sub>*Campaign datasets & process optimization.*</sub> | *Oct 2024 - Dec 2024* |
+
+<br/>
+
+
+<table width="100%">
   <tr>
-    <td align="center">
-      <b>⚡ Fun Fact:</b> I treat coding like a game of <b>Chess ♟️</b>—every move counts.<br> 
-      (Currently looking for an opponent!)
+    <td width="50%" align="center">
+       <h3 align="center">📊 Power Levels</h3>
+       <img src="[https://github-readme-stats.vercel.app/api?username=Eshwarpawanpeddi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Eshwarpawanpeddi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true)" width="100%" />
+    </td>
+    <td width="50%" align="center">
+       <h3 align="center">🔥 Combo Streak</h3>
+       <img src="[https://streak-stats.demolab.com/?user=Eshwarpawanpeddi&theme=radical&hide_border=true&bg_color=0D1117&fire=EB4034](https://streak-stats.demolab.com/?user=Eshwarpawanpeddi&theme=radical&hide_border=true&bg_color=0D1117&fire=EB4034)" width="100%" />
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
+<br/>
 
+
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarpawanpeddi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarpawanpeddi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)" width="50%" />
+</div>
+
+<br/>
+
+
+<h3 align="center">🚀 Deployment Zone</h3>
+
+<table width="100%">
+  <tr>
+    <td width="33%">
+      <h3 align="center">🤖 AI Pet Robot</h3>
+      <p align="center"><em>Jetson Nano • OpenCV • NLP</em></p>
+      <p align="center">Emotionally intelligent robotics. Recognizes faces and responds verbally.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">♻️ Trash Detection</h3>
+      <p align="center"><em>YOLOv6 • Real-time CV</em></p>
+      <p align="center">Live object detection for waste sorting automation with bounding boxes.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🩸 Diabetes Risk</h3>
+      <p align="center"><em>TensorFlow • Seaborn</em></p>
+      <p align="center">Deep learning predictive modeling on healthcare datasets.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+
+
+
+
+<div align="center">
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=f75c7e,f75c7e,2a2a2a&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=f75c7e,f75c7e,2a2a2a&height=100&section=footer)" width="100%"/>
 </div>
