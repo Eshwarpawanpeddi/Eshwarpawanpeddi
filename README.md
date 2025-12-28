@@ -11,6 +11,8 @@
 </p>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="85%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 242, 234, 0.2);" alt="AI Data Flow Banner"/>
+<br/><br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eshwar-pawan-peddi-8664b411b/" target="_blank">
@@ -68,6 +70,9 @@
 </table>
 
 <br/>
+
+<img src="https://media.giphy.com/media/13FrdxPUDn7Bh6/giphy.gif" height="140" style="border-radius: 15px;" alt="Anime Coding"/>
+<br/><br/>
 
 <table align="center" width="90%">
   <tr>
