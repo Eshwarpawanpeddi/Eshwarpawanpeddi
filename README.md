@@ -11,7 +11,7 @@
 </p>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284110-381a8a25-e5cc-48a5-8370-3d71249b6999.gif" width="90%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 242, 234, 0.4);" alt="Cyberpunk City"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 242, 234, 0.4);" alt="Futuristic Workstation"/>
 <br/><br/>
 
 <p align="center">
@@ -23,9 +23,11 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-### 🧠 Tech Stack & Arsenal
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Stack+%26+Arsenal+🧠&center=false&width=300&height=30&color=ffffff&vCenter=true&size=20" alt="Tech Stack" />
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,44 +35,40 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<table border="0" width="100%">
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Work+Experience+💼&center=false&width=300&height=30&color=ffffff&vCenter=true&size=20" alt="Experience" />
+</h3>
+
+<table width="100%">
   <tr>
-    <td width="70%" valign="top">
-      <h3>💼 Experience</h3>
-      <table>
-        <tr>
-          <th>Company</th>
-          <th>Role</th>
-          <th>Duration</th>
-        </tr>
-        <tr>
-          <td><strong>Nutrix Health Tech (USA)</strong></td>
-          <td><strong>Machine Learning Engineer</strong><br><em>Backend ML pipelines & Deep Learning models.</em></td>
-          <td><em>Jun 2025 - Present</em></td>
-        </tr>
-        <tr>
-          <td><strong>Wipro Dice / Elewayte</strong></td>
-          <td><strong>Intern Software Developer</strong><br><em>Data preprocessing & Classification models.</em></td>
-          <td><em>Feb 2025 - May 2025</em></td>
-        </tr>
-        <tr>
-          <td><strong>GryNow Influencer Marketing</strong></td>
-          <td><strong>Student Intern</strong><br><em>Campaign datasets & Data analysis.</em></td>
-          <td><em>Oct 2024 - Dec 2024</em></td>
-        </tr>
-      </table>
-    </td>
-    <td width="30%" valign="center" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600db9ea6.gif" width="100%" style="border-radius: 10px;" alt="Coding Setup"/>
-    </td>
+    <th>Company</th>
+    <th>Role</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td><strong>Nutrix Health Tech (USA)</strong></td>
+    <td><strong>Machine Learning Engineer</strong><br><em>Backend ML pipelines & Deep Learning models.</em></td>
+    <td><em>Jun 2025 - Present</em></td>
+  </tr>
+  <tr>
+    <td><strong>Wipro Dice / Elewayte</strong></td>
+    <td><strong>Intern Software Developer</strong><br><em>Data preprocessing & Classification models.</em></td>
+    <td><em>Feb 2025 - May 2025</em></td>
+  </tr>
+  <tr>
+    <td><strong>GryNow Influencer Marketing</strong></td>
+    <td><strong>Student Intern</strong><br><em>Campaign datasets & Data analysis.</em></td>
+    <td><em>Oct 2024 - Dec 2024</em></td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-### 🚀 Featured Projects
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Featured+Projects+🚀&center=false&width=300&height=30&color=ffffff&vCenter=true&size=20" alt="Projects" />
+</h3>
 
 <table width="100%">
   <tr>
@@ -96,20 +94,17 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 15px;" alt="Futuristic Workstation"/>
-<br/><br/>
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Strategy+%26+Gaming+♟️&center=true&width=300&height=30&color=00f2ea&vCenter=true&size=20" alt="Strategy Header" />
+  <br/>
+  
+  <p>I treat coding like a game of <strong>Chess</strong> — every move counts.</p>
+  
+  <img src="https://img.shields.io/badge/Status-Looking_For_Opponent-critical?style=for-the-badge&logo=lichess&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elo-Rising-success?style=for-the-badge&logo=chess.com&logoColor=white" />
+</div>
 
-<table align="center" width="90%">
-  <tr>
-    <td align="center" width="65%">
-      <b>⚡ Fun Fact:</b> I treat coding like a game of <b>Chess ♟️</b>—every move counts.<br> 
-      (Currently looking for an opponent!)
-    </td>
-    <td align="center" width="35%">
-       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" style="border-radius: 10px;" alt="AI Strategy"/>
-    </td>
-  </tr>
-</table>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
 
