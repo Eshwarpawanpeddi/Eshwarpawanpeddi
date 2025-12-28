@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=220&section=header&text=Eshwar%20Pawan%20Peddi&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" alt="Hi Robot"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=180&section=header&text=Eshwar%20Pawan%20Peddi&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer+👨‍💻;AI+%26+ML+Student+@+BTI+🎓;Building+Smart+Robots+🤖;Chess+Strategist+♟️;Gaming+like+Crazy+🎮;Anime+Lover+🌸;Open+to+Collaboration+🤝&center=true&width=500&height=50&color=00f2ea&vCenter=true&size=25" alt="Typing SVG" />
@@ -41,26 +43,35 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Work+Experience+💼&center=false&width=300&height=30&color=ffffff&vCenter=true&size=20" alt="Experience" />
 </h3>
 
-<table width="100%">
+<table border="0" width="100%">
   <tr>
-    <th>Company</th>
-    <th>Role</th>
-    <th>Duration</th>
-  </tr>
-  <tr>
-    <td><strong>Nutrix Health Tech (USA)</strong></td>
-    <td><strong>Machine Learning Engineer</strong><br><em>Backend ML pipelines & Deep Learning models.</em></td>
-    <td><em>Jun 2025 - Present</em></td>
-  </tr>
-  <tr>
-    <td><strong>Wipro Dice / Elewayte</strong></td>
-    <td><strong>Intern Software Developer</strong><br><em>Data preprocessing & Classification models.</em></td>
-    <td><em>Feb 2025 - May 2025</em></td>
-  </tr>
-  <tr>
-    <td><strong>GryNow Influencer Marketing</strong></td>
-    <td><strong>Student Intern</strong><br><em>Campaign datasets & Data analysis.</em></td>
-    <td><em>Oct 2024 - Dec 2024</em></td>
+    <td width="70%" valign="top">
+      <table width="100%">
+        <tr>
+          <th>Company</th>
+          <th>Role</th>
+          <th>Duration</th>
+        </tr>
+        <tr>
+          <td><strong>Nutrix Health Tech (USA)</strong></td>
+          <td><strong>Machine Learning Engineer</strong><br><em>Backend ML pipelines & Deep Learning models.</em></td>
+          <td><em>Jun 2025 - Present</em></td>
+        </tr>
+        <tr>
+          <td><strong>Wipro Dice / Elewayte</strong></td>
+          <td><strong>Intern Software Developer</strong><br><em>Data preprocessing & Classification models.</em></td>
+          <td><em>Feb 2025 - May 2025</em></td>
+        </tr>
+        <tr>
+          <td><strong>GryNow Influencer Marketing</strong></td>
+          <td><strong>Student Intern</strong><br><em>Campaign datasets & Data analysis.</em></td>
+          <td><em>Oct 2024 - Dec 2024</em></td>
+        </tr>
+      </table>
+    </td>
+    <td width="30%" valign="center" align="center">
+      <img src="https://raw.githubusercontent.com/kodimensional/kodimensional/master/assets/programmer.gif" width="100%" style="border-radius: 10px;" alt="Coding Animation"/>
+    </td>
   </tr>
 </table>
 
@@ -105,6 +116,8 @@
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284110-381a8a25-e5cc-48a5-8370-3d71249b6999.gif" width="100%" style="border-radius: 0px 0px 15px 15px;" alt="Cyberpunk City Footer"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
 
