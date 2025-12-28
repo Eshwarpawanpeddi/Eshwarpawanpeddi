@@ -23,7 +23,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🧠 Tech Stack & Arsenal
 
@@ -33,17 +33,42 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 💼 Experience
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>💼 Experience</h3>
+      <table>
+        <tr>
+          <th>Company</th>
+          <th>Role</th>
+          <th>Duration</th>
+        </tr>
+        <tr>
+          <td><strong>Nutrix Health Tech (USA)</strong></td>
+          <td><strong>Machine Learning Engineer</strong><br><em>Backend ML pipelines & Deep Learning models.</em></td>
+          <td><em>Jun 2025 - Present</em></td>
+        </tr>
+        <tr>
+          <td><strong>Wipro Dice / Elewayte</strong></td>
+          <td><strong>Intern Software Developer</strong><br><em>Data preprocessing & Classification models.</em></td>
+          <td><em>Feb 2025 - May 2025</em></td>
+        </tr>
+        <tr>
+          <td><strong>GryNow Influencer Marketing</strong></td>
+          <td><strong>Student Intern</strong><br><em>Campaign datasets & Data analysis.</em></td>
+          <td><em>Oct 2024 - Dec 2024</em></td>
+        </tr>
+      </table>
+    </td>
+    <td width="35%" valign="center" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Hacker Coding"/>
+    </td>
+  </tr>
+</table>
 
-| **Company** | **Role** | **Duration** |
-| :--- | :--- | :--- |
-| **Nutrix Health Tech (USA)** | **Machine Learning Engineer** <br> *Developed backend ML pipelines and deep learning models for exercise tracking.* | *Jun 2025 - Present* |
-| **Wipro Dice / Elewayte** | **Intern Software Developer** <br> *Performed data preprocessing and trained ML models for classification/regression.* | *Feb 2025 - May 2025* |
-| **GryNow Influencer Marketing** | **Student Intern** <br> *Managed campaign datasets and streamlined data entry processes.* | *Oct 2024 - Dec 2024* |
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🚀 Featured Projects
 
@@ -76,9 +101,12 @@
 
 <table align="center" width="90%">
   <tr>
-    <td align="center">
+    <td align="center" width="70%">
       <b>⚡ Fun Fact:</b> I treat coding like a game of <b>Chess ♟️</b>—every move counts.<br> 
       (Currently looking for an opponent!)
+    </td>
+    <td align="center" width="30%">
+      <img src="https://media.giphy.com/media/3o7TKSjRrfPHOUd8hW/giphy.gif" width="80" alt="Chess Piece"/>
     </td>
   </tr>
 </table>
