@@ -11,7 +11,7 @@
 </p>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="85%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 242, 234, 0.2);" alt="AI Data Flow Banner"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284110-381a8a25-e5cc-48a5-8370-3d71249b6999.gif" width="90%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 242, 234, 0.4);" alt="Cyberpunk City"/>
 <br/><br/>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="70%" valign="top">
       <h3>💼 Experience</h3>
       <table>
         <tr>
@@ -62,8 +62,8 @@
         </tr>
       </table>
     </td>
-    <td width="35%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Hacker Coding"/>
+    <td width="30%" valign="center" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600db9ea6.gif" width="100%" style="border-radius: 10px;" alt="Coding Setup"/>
     </td>
   </tr>
 </table>
@@ -101,12 +101,12 @@
 
 <table align="center" width="90%">
   <tr>
-    <td align="center" width="70%">
+    <td align="center" width="65%">
       <b>⚡ Fun Fact:</b> I treat coding like a game of <b>Chess ♟️</b>—every move counts.<br> 
       (Currently looking for an opponent!)
     </td>
-    <td align="center" width="30%">
-      <img src="https://media.giphy.com/media/3o7TKSjRrfPHOUd8hW/giphy.gif" width="80" alt="Chess Piece"/>
+    <td align="center" width="35%">
+       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" style="border-radius: 10px;" alt="AI Strategy"/>
     </td>
   </tr>
 </table>
