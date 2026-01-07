@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" alt="Hi Robot"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=180&section=header&text=Eshwar%20Pawan%20Peddi&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=180&section=header&text=Eshwar%20Pawan%20Peddi&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer+👨‍💻;AI+%26+ML+Student+@+BTI+🎓;Building+Smart+Robots+🤖;Chess+Strategist+♟️;Gaming+like+Crazy+🎮;Anime+Lover+🌸;Open+to+Collaboration+🤝&center=true&width=500&height=50&color=00f2ea&vCenter=true&size=25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer+👨‍💻;AI+%26+ML+Student+@+BTI+🎓;Building+Smart+Robots+🤖;Chess+Strategist+♟️;Gaming+Enthusiast+🎮&center=true&width=600&height=45&color=f9f9f9&vCenter=true&size=22" />
 </a>
 
 <p>
@@ -13,7 +11,9 @@
 </p>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 242, 234, 0.4);" alt="Futuristic Workstation"/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0, 242, 234, 0.75);" alt="Coding GIF"/>
+
 <br/><br/>
 
 <p align="center">
@@ -28,7 +28,7 @@
 ---
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Stack+%26+Arsenal+🧠&center=false&width=300&height=30&color=ffffff&vCenter=true&size=20" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Stack+🧠&center=false&width=300&height=30&color=ffffff&vCenter=true&size=20" alt="Tech Stack" />
 </h3>
 
 <p align="center">
@@ -40,7 +40,7 @@
 ---
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Work+Experience+💼&center=false&width=300&height=30&color=ffffff&vCenter=true&size=20" alt="Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Experience+💼&center=false&width=300&height=30&color=ffffff&vCenter=true&size=20" alt="Experience" />
 </h3>
 
 <table border="0" width="100%">
@@ -70,7 +70,7 @@
       </table>
     </td>
     <td width="30%" valign="center" align="center">
-      <img src="https://raw.githubusercontent.com/kodimensional/kodimensional/master/assets/programmer.gif" width="100%" style="border-radius: 10px;" alt="Coding Animation"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdjZDNyaTJwNmJocGRsNDN5NWo5cGVoYXex2Bzicee4MG5sdRK3a/giphy.gif" width="100%" style="border-radius: 10px;" alt="New Coding Animation"/>
     </td>
   </tr>
 </table>
@@ -117,8 +117,8 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284110-381a8a25-e5cc-48a5-8370-3d71249b6999.gif" width="100%" style="border-radius: 0px 0px 15px 15px;" alt="Cyberpunk City Footer"/>
+<img src="https://media.giphy.com/media/X5NEbHshkj3a4kfbLo/giphy.gif" width="100%" style="border-radius: 0px 0px 15px 15px;" alt="Cyberpunk Tech Future GIF"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" />
 
 </div>
